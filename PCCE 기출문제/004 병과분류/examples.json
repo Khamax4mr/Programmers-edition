@@ -1,0 +1,4 @@
+[
+  {"inp": ["dry_eye"], "out": ["Ophthalmologyc"]},
+  {"inp": ["pat23_08_20_head"], "out": ["Neurosurgery"]}
+]

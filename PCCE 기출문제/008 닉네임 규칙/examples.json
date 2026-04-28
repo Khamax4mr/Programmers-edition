@@ -1,0 +1,4 @@
+[
+  {"inp": ["WORLDworld"], "out": ["VV0RLDvv"]},
+  {"inp": ["GO"], "out": ["G0oo"]}
+]

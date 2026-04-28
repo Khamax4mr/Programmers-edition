@@ -1,0 +1,6 @@
+[
+  {"inp": [["pencil", "pencil", "pencil", "book"], [2, 4, 3, 1]], "out": ["pencil"]},
+  {"inp": [["doll", "doll", "doll", "doll"], [1, 1, 1, 1]], "out": ["doll"]},
+  {"inp": [["apple", "steel", "leaf", "apple", "leaf"], [5, 3, 5, 3, 7]], "out": ["leaf"]},
+  {"inp": [["mirror", "net", "mirror", "net", "bottle"], [4, 1, 4, 1, 5]], "out": ["mirror"]}
+]

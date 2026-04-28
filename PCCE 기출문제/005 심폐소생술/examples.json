@@ -1,0 +1,4 @@
+[
+  {"inp": [["call", "respiration", "repeat", "check", "pressure"]], "out": [[2, 4, 5, 1, 3]]},
+  {"inp": [["respiration", "repeat", "check", "pressure", "call"]], "out": [[4, 5, 1, 3, 2]]}
+]
