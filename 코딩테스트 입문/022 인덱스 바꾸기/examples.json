@@ -1,0 +1,4 @@
+[
+  {"inp": ["hello", 1, 2], "out": ["hlelo"]},
+  {"inp": ["I love you", 3, 6], "out": ["I l veoyou"]}
+]

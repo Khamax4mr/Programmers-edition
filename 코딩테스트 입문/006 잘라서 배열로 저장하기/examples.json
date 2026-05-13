@@ -1,0 +1,4 @@
+[
+  {"inp": ["abc1Addfggg4556b", 6], "out": [["abc1Ad", "dfggg4", "556b"]]},
+  {"inp": ["abcdef123", 3], "out": [["abc", "def", "123"]]}
+]

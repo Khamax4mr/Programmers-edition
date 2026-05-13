@@ -1,0 +1,5 @@
+[
+  {"inp": ["ab6CDE443fgh22iJKlmn1o", "6CD"], "out": [1]},
+  {"inp": ["ppprrrogrammers", "pppp"], "out": [2]},
+  {"inp": ["AbcAbcA", "AAA"], "out": [2]}
+]

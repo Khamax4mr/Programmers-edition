@@ -1,0 +1,4 @@
+[
+  {"inp": ["dfjardstddetckdaccccdegk", 4], "out": ["attack"]},
+  {"inp": ["pfqallllabwaoclk", 2], "out": ["fallback"]}
+]

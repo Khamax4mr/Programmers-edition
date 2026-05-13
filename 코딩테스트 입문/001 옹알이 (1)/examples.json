@@ -1,0 +1,4 @@
+[
+  {"inp": [["aya", "yee", "u", "maa", "wyeoo"]], "out": [1]},
+  {"inp": [["ayaye", "uuuma", "ye", "yemawoo", "ayaa"]], "out": [3]}
+]

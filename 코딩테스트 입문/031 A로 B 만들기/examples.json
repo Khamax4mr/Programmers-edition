@@ -1,0 +1,4 @@
+[
+  {"inp": ["olleh", "hello"], "out": [1]},
+  {"inp": ["allpe", "apple"], "out": [0]}
+]

@@ -1,0 +1,4 @@
+[
+  {"inp": ["onetwothreefourfivesixseveneightnine"], "out": [123456789]},
+  {"inp": ["onefourzerosixseven"], "out": [14067]}
+]

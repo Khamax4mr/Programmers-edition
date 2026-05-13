@@ -1,0 +1,5 @@
+[
+  {"inp": [["p", "o", "s"], ["sod", "eocd", "qixm", "adio", "soo"]], "out": [2]},
+  {"inp": [["z", "d", "x"], ["def", "dww", "dzx", "loveaw"]], "out": [1]},
+  {"inp": [["s", "o", "m", "d"], ["moos", "dzx", "smm", "sunmmo", "som"]], "out": [2]}
+]

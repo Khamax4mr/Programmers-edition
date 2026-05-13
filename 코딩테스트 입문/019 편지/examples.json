@@ -1,0 +1,4 @@
+[
+  {"inp": ["happy birthday!"], "out": [30]},
+  {"inp": ["I love you~"], "out": [22]}
+]

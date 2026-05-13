@@ -1,0 +1,5 @@
+[
+  {"inp": ["Bcad"], "out": ["abcd"]},
+  {"inp": ["heLLo"], "out": ["ehllo"]},
+  {"inp": ["Python"], "out": ["hnopty"]}
+]

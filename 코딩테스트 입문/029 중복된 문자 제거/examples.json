@@ -1,0 +1,4 @@
+[
+  {"inp": ["people"], "out": ["peol"]},
+  {"inp": ["We are the world"], "out": ["We arthwold"]}
+]

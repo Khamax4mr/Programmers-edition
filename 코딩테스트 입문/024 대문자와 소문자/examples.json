@@ -1,0 +1,4 @@
+[
+  {"inp": ["cccCCC"], "out": ["CCCccc"]},
+  {"inp": ["abCdEfghIJ"], "out": ["ABcDeFGHij"]}
+]

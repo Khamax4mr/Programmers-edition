@@ -1,0 +1,6 @@
+[
+  {"inp": ["hello", "ohell"], "out": [1]},
+  {"inp": ["apple", "elppa"], "out": [-1]},
+  {"inp": ["atat", "tata"], "out": [1]},
+  {"inp": ["abc", "abc"], "out": [0]}
+]
