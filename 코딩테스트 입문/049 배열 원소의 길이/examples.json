@@ -1,0 +1,4 @@
+[
+  {"inp": [["We", "are", "the", "world!"]], "out": [[2, 3, 3, 6]]},
+  {"inp": [["I", "Love", "Programmers."]], "out": [[1, 4, 12]]}
+]

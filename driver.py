@@ -58,7 +58,8 @@ def main():
     print("\t", "문제 출처: [PCCE]")
     exit(0)
 
-  quiz_path = Path(load_json(QUIZ_PATH).get(location, "").get(id, ""))
+  json = load_json(QUIZ_PATH).get(location, "")
+  quiz_path = Path(json.get("base", "") + "/" + json.get(id, ""))
   examples_path = quiz_path/EXAMPLE_NAME
   code_path = quiz_path/CODE_NAME
 

@@ -1,0 +1,4 @@
+[
+  {"inp": [["left", "right", "up", "right", "right"], [11, 11]], "out": [[2, 1]]},
+  {"inp": [["down", "down", "down", "down", "down"], [7, 9]], "out": [[0, -4]]}
+]
